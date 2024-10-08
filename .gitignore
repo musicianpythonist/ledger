@@ -1,0 +1,18 @@
+# Go binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go test binary
+*_test.go
+
+# Vendor directory
+/vendor/
+
+# Go workspace
+*.workspace
+
+# Environment variables
+.env
